@@ -97,7 +97,7 @@ let arr = [
       "description": "Descriptive Statistics are used to present quantitative descriptions in a manageable form. In a research study we may have lots of measures.",
       "location": "Yanbu",
       "price": 8.00,
-      "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/statistics.jpg",
+      "image": "statistics.jpg",
       "availableInventory": 15,
       "rating": 5
     }
