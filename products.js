@@ -77,7 +77,7 @@ let arr = [
       "description": "Photography is the art, application, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film",
       "location": "Abha",
       "price": 8,
-      "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/photography.jpg",
+      "image": "images/photography.jpg",
       "availableInventory": 13,
       "rating": 5
     },
