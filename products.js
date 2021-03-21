@@ -46,7 +46,7 @@ let arr = [
     "description": "Mathematics is the science that deals with the logic of shape, quantity and arrangement.",
     "location": "Dammam",
     "price": 5.55,
-    "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/math.jpg",
+    "image": "images/math.jpg",
     "availableInventory": 10,
     "rating": 4
   },
@@ -57,7 +57,7 @@ let arr = [
       "description": "Music is a form of art that uses sound organised in time.",
       "location": "Jeddah",
       "price": 6.66,
-      "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/music.jpg",
+      "image": "images/music.jpg",
       "availableInventory": 11,
       "rating": 5
     },
