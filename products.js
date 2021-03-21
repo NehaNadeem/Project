@@ -5,7 +5,7 @@ let arr = [
     "description": "The term art encompasses diverse media such as painting, sculpture, printmaking, drawing, decorative arts, photography, and installation..",
     "location": "Jeddah",
     "price": 20.00,
-    "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/art.jpg",
+    "image": "images/art.jpg",
     "availableInventory": 10,
     "rating": 2
   },
@@ -15,7 +15,7 @@ let arr = [
     "description": "Learn vocabulary, terms, and more with flashcards, games, and other study tools.",
     "location": "Riyadh",
     "price": 11.00,
-    "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/eng.jpg",
+    "image": "images/eng.jpg",
     "availableInventory": 12,
     "rating": 4
   },
