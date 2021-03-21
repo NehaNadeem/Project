@@ -25,7 +25,7 @@ let arr = [
     "description": "Geography is the study of places and the relationships between people and their environments.",
     "location": "Jeddah",
     "price": 3.30,
-    "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/geog.jpg",
+    "image": "images/geog.jpg",
     "availableInventory": 55,
     "rating": 3
   },
@@ -35,7 +35,7 @@ let arr = [
     "description": "History describes our attempts to research, study and explain the past.",
     "location": "Riyadh",
     "price": 4.40,
-    "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/histry.jpg",
+    "image": "images/histry.jpg",
     "availableInventory": 89,
     "rating": 5
   },
