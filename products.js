@@ -67,7 +67,7 @@ let arr = [
       "description": "Physical education is a course taught in school that focuses on developing physical fitness.",
       "location": "Jeddah",
       "price": 7.79,
-      "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/p.e.jpg",
+      "image": "images/p.e.jpg",
       "availableInventory": 12,
       "rating": 5
     },
