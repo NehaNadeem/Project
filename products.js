@@ -87,7 +87,7 @@ let arr = [
       "description": "Science is the pursuit and application of knowledge and understanding of the natural and social world following a systematic methodology based on evidence.",
       "location": "Khobar",
       "price": 10,
-      "image": "file:///C:/Users/Neha%20Nadeem/Desktop/MDX%20UNI%20DOC/Web%20App-%20Chinnu/project/images/science.jpg",
+      "image": "images/science.jpg",
       "availableInventory": 14,
       "rating": 5
     },
